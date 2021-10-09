@@ -40,7 +40,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kterra&show_icons=true&locale=en" alt="kterra" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kterra&" alt="kterra" /></p>
 
-
+</br>
 <h3 align="left">🔗 Entre em contato comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kizzyterra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kizzyterra" height="30" width="40" /></a>
