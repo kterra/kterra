@@ -1,5 +1,16 @@
-<h1 align="center">Oi 👋, Eu sou a Kizzy</h1>
-<h3 align="center">Uma cientista de dados apaixonada por compartilha conhecimento</h3>
+<p align="center">
+  <img src="https://github.com/kterra/kterra/raw/main/assets/header-github.gif" alt="Oi, eu sou a Kizzy">
+</p>
+
+<!--
+How to make the bio gif ?
+💜 Thanks to [matyo91](https://github.com/matyo91)
+
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicated command that convert MOV to GIF.
+Then i save result to [assets/github.gif](assets/github.gif)
+-->
 
 - 🔭 Atualmente estou trabalhando **no Programação Dinâmica**
 - 👯 Eu procuro colaborar em **projetos de ciência de dados e IA**
