@@ -37,8 +37,11 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 <h3 align="left"> 📊 Métricas do Github: </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kterra&label=Profile%20views&color=0e75b6&style=flat" alt="kterra" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kterra&show_icons=true&locale=en" alt="kterra" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kterra&" alt="kterra" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kterra&show_icons=true&locale=en" alt="kterra" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kterra&" alt="kterra" /></p>
+
 
 </br>
 <h3 align="left">🔗 Entre em contato comigo:</h3>
