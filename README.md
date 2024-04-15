@@ -12,14 +12,14 @@ This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicat
 Then i save result to [assets/github.gif](assets/github.gif)
 -->
 
-- 🔭 Atualmente estou trabalhando no [Programação Dinâmica](https://www.youtube.com/programacaodinamica) e na [ALFORRIAH](https://www.alforriah.com/)
+- 🔭 Professora no Inteli e criadora de conteúdo no [Programação Dinâmica](https://www.youtube.com/programacaodinamica)
 - 👯 Eu procuro colaborar em **projetos de ciência de dados e IA**
 - 📝 Eu regularmente escrevo em [https://medium.com/programacaodinamica](https://medium.com/programacaodinamica)
-- 💬 Me pergunte sobre **tecnologia, ciência de dados, ética em IA, carreira e etc - ficarei feliz em ajudar :)**
+- 💬 Me pergunte sobre **pomputação, ciência de dados, ética em IA, carreira e etc - ficarei feliz em ajudar :)**
 - 📫 Fale comigo em **kizzy@pgdinamica.com**
 - 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/kizzyterra](https://www.linkedin.com/in/kizzyterra)
 - ⚡ Curiosidade sobre mim **Amo esportes e sou faixa marrom de karatê🥋**
-- Habilidades: me comunico bem (confira um vídeo [meu](https://www.youtube.com/watch?v=qAUbkKtqqZA)), gosto de trabalhar em equipe, fluente inglês, me sinto confiante para construir produtos e servicos de software
+- Habilidades: me comunico bem (confira um vídeo [meu](https://www.youtube.com/watch?v=qAUbkKtqqZA)), gosto de trabalhar em equipe, fluente inglês, me sinto confiante para liderar projetos de dados e IA
 
 <details>
   <summary><b>🛠️ Algumas linguagens e ferramentas que eu uso:</b></summary>
